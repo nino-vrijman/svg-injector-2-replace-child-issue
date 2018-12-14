@@ -1,0 +1,14 @@
+.images {
+  display: block;
+  margin-top: 20px;
+}
+
+img, svg {
+  width: 64px;
+  height: 64px;
+}
+
+.credit {
+  margin-top: 20px;
+  font-size: 0.6em;
+}
